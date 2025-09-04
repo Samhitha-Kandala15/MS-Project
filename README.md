@@ -21,7 +21,7 @@ To develop a Microsoft Project plan for the renovation of a hospital lab, incorp
 ![Gantt Chart](https://github.com/Samhitha-Kandala15/MS-Project/blob/main/Project.png)
 
 ## Snapshot of Resource sheet
-![Resource sheet] (https://github.com/Samhitha-Kandala15/MS-Project/blob/main/Resource%20sheet.png)
+![Resource sheet](https://github.com/Samhitha-Kandala15/MS-Project/blob/main/Resource%20sheet.png)
 
 ## Snapshots of reports
 ![Burndown] (https://github.com/Samhitha-Kandala15/MS-Project/blob/main/Burndown.png)
