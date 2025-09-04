@@ -25,7 +25,9 @@ To develop a Microsoft Project plan for the renovation of a hospital lab, incorp
 
 ## Snapshots of reports
 ![Burndown](https://github.com/Samhitha-Kandala15/MS-Project/blob/main/Burndown.png)
+
 ![Resource Overview](https://github.com/Samhitha-Kandala15/MS-Project/blob/main/Resource%20overview.png)
+
 ![Cash flow](https://github.com/Samhitha-Kandala15/MS-Project/blob/main/Cash%20flow.png)
 
 
